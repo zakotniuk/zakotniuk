@@ -1,5 +1,5 @@
 
-- ### 👋 Hi, I’m Mikhail Zakotniuk
+- ### 👋 Hi, I’m Mikhail Zakotniuk!
 - #### 👀 I’m interested in web development
 
 <!---
