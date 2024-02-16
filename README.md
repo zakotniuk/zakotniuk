@@ -1,6 +1,8 @@
 
 - ### 👋 Hi, I’m Mikhail Zakotniuk!
-- #### 👀 I’m interested in web development
+- #### I am studying at a university for developer
+- #### Since July 2023, I have been working at the Bank as a system analyst
+
 
 <!---
 zakotniuk/zakotniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
